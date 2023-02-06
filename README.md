@@ -23,7 +23,9 @@ Here are some ideas to get you started:
  [![NPM][NPM]][NPM-url]
  [![Git][Git]][Git-url]
  [![Github][Github]][Github-url]
- [![Express.j][Express.js]][Express-url]
+ [![Express.js][Express.js]][Express-url]
+ [![Heroku][Heroku]][Heroku-url]
+ [![Sequelize.js][Sequelize.js]][Sequelize-url]
 
 ## GitHub Stats
 ![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanab&show_icons=true&theme=prussian)
