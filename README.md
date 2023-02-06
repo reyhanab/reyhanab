@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 ![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanab&show_icons=true&theme=prussian)
-<img width=467 height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanab&layout=compact&theme=prussian"/>
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanab&layout=compact&theme=prussian"/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
