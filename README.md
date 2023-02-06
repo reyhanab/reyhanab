@@ -28,8 +28,8 @@ Here are some ideas to get you started:
  [![Sequelize.js][Sequelize.js]][Sequelize-url]
 
 ## GitHub Stats
-![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanab&show_icons=true&theme=prussian)
-<img height=193 width=466 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanab&layout=compact&theme=prussian"/>
+<img height=193 width=400 src="https://github-readme-stats.vercel.app/api?username=reyhanab&show_icons=true&theme=prussian"/>
+<img height=193 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanab&layout=compact&theme=prussian"/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
