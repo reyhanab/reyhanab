@@ -1,6 +1,6 @@
 ### Hi there, I'm Reyhaneh 👋
 
-Enthusiastic problem-solver and lifelong learner with a passion for web development, skilled in React / Redux, Python, JavaScript, Node, Express, Flask and excited to tackle new challenges. Experienced in both back-end and front-end development. Other than coding, I like to explore new places and embrace outdoor adventures.
+I am an enthusiastic problem-solver and a lifelong learner with a passion for web development and a strong foundation in JavaScript, Python, React / Redux, Node, Express, Flask and excited to tackle new challenges. I am experienced in both back-end and front-end development. When I'm not coding, I enjoy indulging in outdoor activities such as hiking, running, and exploring new places.
 
 <!--
 **reyhanab/reyhanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
