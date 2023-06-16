@@ -7,7 +7,7 @@ I am an enthusiastic problem-solver and a lifelong learner with a passion for we
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my projects
+- 🔭 I’m currently learning TypeScript and Next.js
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reyhaneh-abdollahi-408895110/)
 - 😄 Pronouns: She/Her
