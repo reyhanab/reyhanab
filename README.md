@@ -30,9 +30,6 @@ Here are some ideas to get you started:
  [![Heroku][Heroku]][Heroku-url]
  [![Sequelize.js][Sequelize.js]][Sequelize-url]
 
-## GitHub Stats
-![Reyhaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyhanab&show_icons=false&card_width=400&theme=prussian&layout=compact)<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanab&layout=compact&theme=prussian"/>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
