@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently learning TypeScript and Next.js
 - 💬 Ask me about Anything
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reyhaneh-abdollahi-408895110/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reyhaneh-abdollahi/)
 - 😄 Pronouns: She/Her
 - 🔖 Portfolio: [Here](https://reyhanab.github.io/Portfolio/)
 
